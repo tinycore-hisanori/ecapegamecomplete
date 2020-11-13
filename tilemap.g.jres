@@ -1,0 +1,75 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAA8P///////wD/7u7u7u7+8O/u/+/u7v7/RET//09E9O/u7v/v7u7+7+7u7u7u7v7v7u7u7u7u/k9ERERERET07+7u7u7u7v7v7u7u7u7u/u/u7u7u7u7+/0RERERERPT/7+7u7u7u/vD/7u7u7u7+AP/u7u7u7v4AAP///////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAP//////////7+7u3/3d3/3v7u7f/d3f/e/u7t/93d/97+7u3/3d3/3v/+7f/d3f/e//79/93d/97//u3/3d3/3v7u7f/d3f/e/u7t/93d/97+7u3/3d3/3v7u7f/d3f/e/u7t/93d/9//////////8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile3": {
+        "data": "hwQQABAAAAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile4": {
+        "data": "hwQQABAAAAD/////////////mZmZmZmZ/5+ZmZmZmZn/mZmZmZmZmf+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+ZmZmZmZmZ/5mZmZmZmZn/mZmZmZmZmf+fmZmZmZmZ//+ZmZmZmZn//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile5": {
+        "data": "hwQQABAAAAD//////////7/d293d2739v90rFBHRvf2/LUIfEdG9/b/dKxQR0b39v93bvd3bvf2/3dsdEdG9/b/d2x8R0b39v93bHRHRvf2/3du93du9/b/d2x0R0b39v93bHxHRvf2/3dsdEdG9/b/d273d2739v93bvd3bvf3//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMGMwMDAyMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTAxMDEwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDEwMTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwMTAxMDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTAxMDEwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTA1MDEwMTAxMDEwMTAxMDQwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDUwNTA1MDUwMjA1MDUwNTA1MDUwNTA1MDUwNTAxMDEwNTA1MDUwNTAyMDUwNTA1MDUwNTA1MDUwNTA1MDEwMTAxMDEwMTAxMDEwMTA0MDEwMTAxMDEwMTAxMDEwMTAxMDUwNTA1MDUwNTA1MDIwNTA1MDUwNTA1MDUwNTAxMDMwNTA1MDUwNTA1MDUwMjA1MDUwNTA1MDUwNTA1MDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIyMjIyMjIyMjIyMjIyMjIwMjAwMDAwMDAwMDAwMDIwMjIyMjAyMjIyMjIyMjIyMjIyMjIwMjIyMjIyMjIyMjIwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMDIyMjIyMjIyMjIyMjIyMjAyMjIyMjIyMjIwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.stairSouth",
+            "sprites.dungeon.floorLight2",
+            "myTiles.tile2",
+            "sprites.dungeon.darkGroundCenter"
+        ]
+    },
+    "level_0": {
+        "id": "level_0",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA2MDIwMjAyMDIwMjAyMDIwMjAyMDIwYTBhMGEwYTA2MDYwMjAyMDIwMjAyMDIwMjAyMDIwMjBhMDIwMjAyMDYwNjAyMDIwMjAyMDIwMjAyMDIwMjAyMDkwMjAyMDIwNjA1MDQwNDAxMDQwNDA0MDQwNDA0MDQwNDA0MDQwNDAzMDYwMjAyMDgwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDYwNjAyMDIwODAyMDIwMjAyMDIwMjAyMGIwYzBjMGMwYzA2MDIwMjA4MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjA2MDUwNDA0MDQwNDA0MDQwNDA0MDQwMTA0MDQwNDA0MDMwNjAyMDIwMjBhMDIwMjAyMDIwMjA4MDIwMjAyMDIwNjA0MDgwNDA0MDMwMjAyMDIwMjAyMDgwMjAyMDIwMjA2MDYwMjAyMDIwMjAyMDIwMjAyMDIwODAyMDIwMjAyMDYwNjA4MDIwMjAyMDIwMjAyMDIwMjA4MDIwMjAyMDIwNjA1MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwMTAzMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjA4MDYwNzAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDgwNjA1MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwNDAzMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwMjAwMDAwMDAwMDAwMDIwMjIwMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMjIyMjIyMjAyMjIyMjIyMjIyMjIyMDIwMDAwMDAwMDAwMDAyMDIyMjIyMjIyMjIyMDIyMjIwMjAwMjIyMjIyMjAyMjIyMDIyMjIyMjIyMjIwMjIyMjAyMjIyMjIyMjIyMDIyMjIwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMjIyMjIyMjAwMDAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile2",
+            "myTiles.tile3",
+            "sprites.builtin.oceanSand7",
+            "sprites.builtin.oceanSand6",
+            "sprites.builtin.oceanSand5",
+            "sprites.builtin.coral5",
+            "myTiles.tile4",
+            "sprites.dungeon.stairNorth",
+            "myTiles.tile5",
+            "sprites.dungeon.floorLight0",
+            "sprites.builtin.oceanSand1",
+            "sprites.builtin.oceanSand2"
+        ]
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
